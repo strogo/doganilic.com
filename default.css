@@ -1,0 +1,35 @@
+	body {
+ 		background-color: #626973;
+	}
+	body, td {
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		font-size: 12px;
+	}
+
+	#mainTable {
+		background-color: #FFFFFF;
+	}
+
+	.news {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 11px;
+	}
+	
+	h1 {
+	font: bold 22px arial, helvetica, sans-serif;
+}
+	
+	h2, h3 {
+	font: bold 14px arial, helvetica, sans-serif;
+}
+
+h4, h5, h6 {
+	font: 10px Verdana, helvetica, sans-serif;
+}
+
+	.news_desc {
+		font-family: Verdana, Helvetica, sans-serif;
+		font-size: 12px;
+	}
+
+td.c8 {background-color: #FFFFFF; border-top-color: #666699; border-top-style: dashed; border-top-width: 1px; padding-top: 10px}  td.c7 {background-color: #F0F0F0; padding-left: 10px; padding-right: 10px}  li.c6 {list-style: none}  li.c5 {list-style-type:square}  td.c4 {padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px;}  td.c3 {background-color: #FFFFFF; border-bottom-color: #666699; border-bottom-style: dashed; border-bottom-width: 1px; border-top-color: #666699; border-top-style: dashed; border-top-width: 1px}  td.c2 {padding-top: 13px; align=}  td.c1 {padding-top: 10px;}
